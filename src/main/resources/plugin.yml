@@ -1,0 +1,6 @@
+name: AFKRewards
+version: 1.0.0
+main: me.skyforge.AFKRewards
+api-version: '1.21'
+author: SkyForgeCode
+description: AFK rewards plugin for Paper.
